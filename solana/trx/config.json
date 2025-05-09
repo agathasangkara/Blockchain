@@ -1,0 +1,6 @@
+{
+  "recipient": "ADDRESS_PENERIMA",
+  "proxy": "http://username:password@host:port",
+  "privatekey_sender" : "PRIVATEKEY_SENDER",
+  "fee_lamport" : 5000
+}
